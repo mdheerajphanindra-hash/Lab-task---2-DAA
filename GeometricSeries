@@ -1,4 +1,4 @@
-//GeometricSeries iterative mehod
+//GeometricSeries iterative mehod  Programs for summation of series 1+X+X^2+X^3+…with different time complexities.
 
 /*#include<iostream>
 using namespace std;
